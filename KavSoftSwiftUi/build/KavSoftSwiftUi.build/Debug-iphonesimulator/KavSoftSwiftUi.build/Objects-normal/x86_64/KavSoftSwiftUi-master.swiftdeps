@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "0b6f172e1d28caa95f55326ea22dc80a"
+build_time: [1594215702, 729081000]
+inputs:
+  "/Users/dipakdhondge/Documents/iOS DIp/iOS/iOSIntervIewStudy/SWIFTUIInteriew/KavSoftSwiftUi/KavSoftSwiftUi/AppDelegate.swift": [1593681992, 709719969]
+  "/Users/dipakdhondge/Documents/iOS DIp/iOS/iOSIntervIewStudy/SWIFTUIInteriew/KavSoftSwiftUi/KavSoftSwiftUi/SceneDelegate.swift": [1594214829, 32492167]
+  "/Users/dipakdhondge/Documents/iOS DIp/iOS/iOSIntervIewStudy/SWIFTUIInteriew/KavSoftSwiftUi/KavSoftSwiftUi/TabBarBadgeView.swift": [1594215653, 393237081]
+  "/Users/dipakdhondge/Documents/iOS DIp/iOS/iOSIntervIewStudy/SWIFTUIInteriew/KavSoftSwiftUi/KavSoftSwiftUi/ContentView.swift": [1594201746, 514372954]
